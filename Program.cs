@@ -13,7 +13,7 @@ namespace FileCopyDemo
     {
         // Postgres connection string – kendine göre düzenle
         private const string ConnectionString =
-            "Host=localhost;Port=5432;Database=filecopy_demo;Username=postgres;Password=Frs@2024!";
+            "Host=localhost;Port=5432;Database=filecopy_demo;Username=XXXXX;Password=XXXX";
 
         static async Task Main()
         {
